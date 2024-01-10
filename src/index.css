@@ -3,8 +3,6 @@
 @tailwind utilities;
 
 @layer base {
-  html {
-  }
   @font-face {
     font-family: DuplicateSans;
     src: url("/font//DuplicateSans/DuplicateSans.ttf") format("truetype");
